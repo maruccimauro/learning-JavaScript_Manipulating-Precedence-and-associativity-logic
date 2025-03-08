@@ -6,7 +6,7 @@
 
 * * *
 
-Conoceremos la implicancia y la importancia de comprender y manipular correctamente la lógica de precedencia.  
+Conoceremos la implicancia y la importancia de comprender y manipular correctamente la lógica de precedencia y asociatividad.  
 ![Dibujo.svg](_resources/Dibujo.svg)
 * * *
 
